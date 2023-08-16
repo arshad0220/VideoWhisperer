@@ -35,23 +35,27 @@ Before you begin, ensure you have the following installed:
    ```bash
    git clone https://github.com/yourusername/VideoWhisperer.git
 
+  ```bash
 2. cd VideoWhisperer
-   
+
+  ```bash
 3. cd client
   npm install
 
+  ```bash
 4. cd client
   npm start
 
+  ```bash
 5. cd server
   npm install
 
+  ```bash
 6. cd server
   npm start
 
 ## Usage
-Register or log in to the application using your credentials.
-Once logged in, you can initiate a video call by selecting a user to connect with.
+Once you are in, you can initiate a video call by selecting a user to connect with.
 Accept incoming video call requests and enjoy a real-time video conversation.
 End the call by closing the browser tab or window.
 Contributing
