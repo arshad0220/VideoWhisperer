@@ -43,16 +43,14 @@ Before you begin, ensure you have the following installed:
   npm install
 
   ```bash
-4. cd client
-  npm start
+4.npm start
 
   ```bash
 5. cd server
-  npm install
+   npm install
 
   ```bash
-6. cd server
-  npm start
+6. npm start
 
 ## Usage
 Once you are in, you can initiate a video call by selecting a user to connect with.
